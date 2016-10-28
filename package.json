@@ -1,0 +1,15 @@
+{
+  "name": "url_shortener",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JNamenye",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mocha": "^3.1.2"
+  }
+}
